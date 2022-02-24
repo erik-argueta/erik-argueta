@@ -1,7 +1,9 @@
-### What's up! -- My name's Erik (:
+### What's up! My name's Erik (:
 
 ### Here's a Little Something About Me
 I am a college student majoring in Computer Science with a passion for learning the tools I can use to create applications that will help my community! 
+
+<img align="right" src="https://github.com/erik-argueta/erik-argueta/blob/main/readmeGIfs/shiba.gif" width="350" height="200" />
 
 **What am I doing?**
 - Learning Flutter
