@@ -12,7 +12,7 @@ I am a college student majoring in Computer Science with a passion for learning 
 
 <br>
 
-## Check out some of my projects:
+## #Check out some of my projects:
 ### C++
 - <a href="https://github.com/erik-argueta/projects/tree/main/cpp/complex/RainSim">RainSim</a>
 - <a href="https://github.com/erik-argueta/projects/tree/main/cpp/data-structures/scoreboard/singly-linked-list">Scoreboard (via singly linked list)</a>
