@@ -11,6 +11,7 @@ I am a college student majoring in Computer Science with a passion for learning 
 - Documenting my endeavor
 
 <br />
+<br />
 
 ## Check out some of my projects:
 ### C++
