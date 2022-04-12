@@ -1,4 +1,5 @@
 ### What's up! My name's Erik (:
+Pronouns: He/Him/His
 
 ### Here's a Little Something About Me
 I am a college student majoring in Computer Science with a passion for learning the tools I can use to create applications that will help my community! 
